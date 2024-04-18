@@ -1,0 +1,126 @@
+{
+  "resumeTitle": {
+    "title": "PORTFOLIO"
+  },
+
+  "information": {
+    "name": "김희진",
+    "contact": [
+      { "id": 0, "name": "Email", "href": "brandy@kakao.com", "isEmail": true },
+      { "id": 1, "name": "Github", "href": "https://github.com/heejinki" },
+      { "id": 2, "name": "Blog", "href": "https://velog.io/@orihiro" }
+    ]
+  },
+
+  "project": [
+    {
+      "id": 0,
+      "name": "로켓CV",
+      "description": "신입 개발자들이 이력서를 작성할때의 어려움을 해소하기 위해 정해진 인풋에 내용 을 채워넣는 것만으로 이력서 템플릿 형식에 맞춰 완성된 이력서를 제작해주며 작성 된 이력서의 임시저장, 수정, 삭제, PDF저장 기능을 활용할 수 있는 웹 서비스",
+      "webUrl": "http://main-project-cv-deploy.s3-website.ap-northeast-2.amazonaws.com/",
+      "repoUrl": "https://github.com/codestates-seb/seb43_main_014/",
+      "isTeam": true,
+      "period": ["2023. 04", "2023. 06"],
+      "stack": [
+        "JavaScript",
+        "React",
+        "Recoil",
+        "axios",
+        "styled-components",
+        "ESLint",
+        "Prettier",
+        "figma"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "PRO LAW",
+      "description": "변호사들을 소개하고 문의 및 상담할 수 있게 돕는 PRO LAW 공식 웹 서비스",
+      "webUrl": "https://www.prolaw.co.kr/",
+      "isTeam": true,
+      "period": ["2023. 08", "2023. 09"],
+      "stack": [
+        "JavaScript",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "TailwindCSS",
+        "figma"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "히어로즈 오브 스포츠",
+      "description": "주짓수 선수 정보와 타이머 기능을 갖춘 점수판 앱과 경기 결과를 조회할 수 있는 웹 서비스, 히어로즈 오브 스포츠 공식 웹 서비스",
+      "webUrl": "https://www.heroesofsports.kr/",
+      "repoUrl": "https://www.sportseventsolutions.com/",
+      "isTeam": true,
+      "period": ["2023. 08", "2023. 11"],
+      "stack": [
+        "JavaScript",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "TailwindCSS",
+        "React Query",
+        "Prisma",
+        "figma"
+      ]
+    }
+  ],
+
+  "activity": [
+    {
+      "id": 0,
+      "name": "첫번째 활동",
+      "period": ["2022. 06", "2022. 08"],
+      "description": "첫번째 활동에 대한 간략한 설명"
+    },
+    {
+      "id": 1,
+      "name": "두번째 활동",
+      "period": ["2022. 06", "2022. 08"],
+      "description": "두번째 활동에 대한 간략한 설명"
+    }
+  ],
+
+  "education": [
+    {
+      "id": 0,
+      "name": "동아대학교",
+      "period": ["2010. 02", "2017. 02"],
+      "description": "기계공학 전공"
+    },
+    {
+      "id": 1,
+      "name": "코드스테이츠 부트캠프 43기",
+      "period": ["2022. 12", "2023. 06"],
+      "description": "프론트엔드 부트캠프"
+    }
+  ],
+
+  "certificate": [
+    {
+      "id": 0,
+      "name": "TOEIC 1000점",
+      "date": "2019. 07. 28",
+      "organizer": "ETS"
+    },
+    {
+      "id": 1,
+      "name": "OPIC IH",
+      "date": "2019. 07. 28",
+      "organizer": "ETS"
+    }
+  ],
+
+  "award": [
+    {
+      "id": 0,
+      "name": "첫번째 수상",
+      "date": "2019. 07. 28",
+      "organizer": "수여기관",
+      "description": "첫번째 수상에 대한 간략한 설명"
+    }
+  ]
+}
