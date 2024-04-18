@@ -66,6 +66,25 @@
         "Prisma",
         "figma"
       ]
+    },
+    {
+      "id": 3,
+      "name": "ForMZ",
+      "description": "청년들을 위한 정책, 공간, 공공주택정보들을 얻고 커뮤니티를 통해 소통할 수 있는 서비스이며 현재 제작중인 상태입니다. ",
+      "webUrl": "",
+      "repoUrl": "https://github.com/For-MZ/formz-fe/tree/develop",
+      "isTeam": true,
+      "period": ["2024. 02", "진행 중"],
+      "stack": [
+        "JavaScript",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "SCSS",
+        "React Query",
+        "Zustand",
+        "figma"
+      ]
     }
   ],
 
